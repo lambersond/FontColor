@@ -4,7 +4,7 @@ This extension was created to increase the default font size to 12, make the fon
 # How to add to FG
 - Pull the latest release (.zip)
 - Unzip release
-- Zip the contents of \FontColor-<version>\FontColor-<version>\ folder
+- Zip the contents of \FontColor-[version]\FontColor-[version]\ folder
   - Where the README.md is located.
 - Change extension from .zip to .ext
-- Move FontColor-<version>.ext to %Appdata\FantasyGrounds\extensions\
+- Move FontColor-[version].ext to %Appdata\FantasyGrounds\extensions\
