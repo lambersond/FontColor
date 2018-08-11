@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<!-- 
+  Please see the license.html file included with this distribution for 
+  attribution and copyright information.
+-->
+
+<root>
+	<!-- Override CoreRPG -->
+	<!-- Common -->
+	<icon name="button_checkoff" file="graphics/buttons/button_checkoff.png" />
+	<icon name="button_checkon" file="graphics/buttons/button_checkon.png" />
+
+</root>

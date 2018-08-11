@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.0" release="8" logo="logo.png">
+	<announcement text="Large & light color font \rBy Dailies and Dungeons\rCopyright 2015 Smiteworks USA, LLC" font="emotefont" icon="DDlogo_5E" />
+
+	<!-- Attributes -->
+	<properties>
+		<name>5E - Font and Color - Dailies &amp; Dungeons</name>
+		<description>Special thanks to Damned, Moon Wizard, and Trenloe for helping with the lua script.</description>
+		<version>1.0.4</version>
+		<ruleset>
+			<name>5E</name>
+		</ruleset>
+		<loadorder>50</loadorder>
+	</properties>
+
+	<base>
+		<!-- Layers -->
+		<includefile source="graphics\graphics_fonts.xml" />
+		<includefile source="graphics\graphics_icons.xml" />
+		<includefile source="graphics\graphics_buttons.xml" />
+		<includefile source="graphics\graphics_frames.xml" />
+		<includefile source="utility\utility_misc.xml" />
+		
+		<!-- Scripts -->
+		<script name="Startup" file="script\startup.lua" />
+	</base>
+	
+</root>

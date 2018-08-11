@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<!-- 
+  Please see the license.html file included with this distribution for 
+  attribution and copyright information.
+-->
+
+<root>
+	<icon name="DDlogo_5E" file="graphics/icons/DD_5E.png" />
+	
+	<!-- Lighting -->
+	<icon name="lighting_midnight" file="graphics/icons/lighting_midnight.png" />
+	
+	<!-- CoreRPG -->
+	<icon name="tempmod" file="graphics/icons/tempmod.png" />
+	<icon name="chat_story" file="graphics/icons/chat_story.png" />
+	<icon name="chat_speak" file="graphics/icons/chat_speak.png" />
+	<icon name="char_encumbrance" file="graphics/icons/char_encumbrance.png" />
+	<icon name="gmdieicon" file="graphics/icons/gmdie_icon.png" />
+	<icon name="indicator_whisper" file="graphics/icons/indicator_whisper.png" />
+	
+	<!-- 5E -->
+	<icon name="question" file="graphics/icons/question.png" />
+	<icon name="roll_attack_miss" file="graphics/icons/roll_attack_miss.png" />
+	<icon name="roll_attack_hit" file="graphics/icons/roll_attack_hit.png" />
+	<icon name="roll_attack_crit" file="graphics/icons/roll_attack_crit.png" />
+	<icon name="char_weapon_melee" file="graphics/icons/char_weapon_melee.png" />
+	<icon name="char_weapon_ranged" file="graphics/icons/char_weapon_ranged.png" />
+	<icon name="char_weapon_thrown" file="graphics/icons/char_weapon_thrown.png" />
+	<icon name="char_armorcheck" file="graphics/icons/char_armorcheck.png" />
+	<icon name="usepower" file="graphics/icons/usepower.png" />
+	<icon name="spell_cast" file="graphics/icons/spell_cast.png" />
+	<icon name="power_casterspontaneous" file="graphics/icons/power_casterspontaneous.png" />
+	<icon name="roll_cast" file="graphics/icons/roll_cast.png" />
+</root>
