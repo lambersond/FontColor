@@ -4,9 +4,5 @@ This extension was created to increase the default font size to 12, make the fon
 ![Preview Image](https://github.com/lambersond/FontColor/blob/master/FG_Lighting_Blue.png)
 
 # How to add to FG
-- Pull the latest release (.zip)
-- Unzip release
-- Zip the contents of \FontColor-[version]\FontColor-[version]\ folder
-  - Where the README.md is located.
-- Change extension from .zip to .ext
-- Move FontColor-[version].ext to %Appdata\FantasyGrounds\extensions\
+- Pull the latest release (.ext)
+- Move .ext file to %Appdata\FantasyGrounds\extensions\ or where you have Fantasy Grounds installed.
