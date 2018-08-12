@@ -4,7 +4,7 @@
 
 	<!-- Attributes -->
 	<properties>
-		<name>5E Add-on - Font and Color</name>
+		<name>5E Theme - Font and Color</name>
 		<description>Special thanks to Damned, Moon Wizard, and Trenloe for helping with the lua script.</description>
 		<version>1.0.4</version>
 		<ruleset>
@@ -19,10 +19,14 @@
 		<includefile source="graphics\graphics_icons.xml" />
 		<includefile source="graphics\graphics_buttons.xml" />
 		<includefile source="graphics\graphics_frames.xml" />
+		
+		<!-- Addition to lighting menu -->
 		<includefile source="utility\utility_misc.xml" />
 		
+		<!-- character sheet subwindow -->
+		<includefile source="campaign\record_char_main.xml" />
 		<!-- Scripts -->
+		
 		<script name="Startup" file="script\startup.lua" />
 	</base>
-	
 </root>

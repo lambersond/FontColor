@@ -374,7 +374,11 @@
 		<ttf file="graphics/fonts/Candara.ttf" name="Candara SDF" size="15" italic="true" />
 		<color value="#FFFFFF" />
 	</font>
-
+	<font name="subwindowtitle-dark">
+		<ttf file="graphics/fonts/MarcellusSC-Regular.ttf" name="Marcellus SC" size="24" />
+		<color value="#831C24" />
+	</font>
+	
 	<!-- Languages -->
 	<font name="Dwarven">
 		<ttf file="graphics/fonts/Dwarven.ttf" name="D&amp;D Dwarvish Bold" size="20" />
