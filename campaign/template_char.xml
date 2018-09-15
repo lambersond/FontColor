@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<!-- 
+  Please see the license.html file included with this distribution for 
+  attribution and copyright information.
+-->
+
+<root>
+	<template name="windowtitlebar_char">
+		<windowtitlebar>
+			<bounds merge="replace">0,10,-1,40</bounds>
+			<field>name</field>
+			<font>subwindowtitle-dark</font>
+			
+			<script>
+				function setValue(sTitle)
+					if widgetTitle then
+						if prefix then
+							sTitle = Interface.getString(prefix[1]) .. " - " .. sTitle;
+						end
+						widgetTitle.setText(sTitle);
+						updatePosition();
+					end
+				end
+			</script>
+		</windowtitlebar>
+	</template>
+</root>

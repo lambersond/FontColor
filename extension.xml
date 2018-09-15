@@ -6,7 +6,7 @@
 	<properties>
 		<name>5E Theme - Font and Color</name>
 		<description>Special thanks to Damned, Moon Wizard, and Trenloe for helping with the lua script.</description>
-		<version>1.0.5</version>
+		<version>1.1.0</version>
 		<ruleset>
 			<name>5E</name>
 		</ruleset>
@@ -24,8 +24,7 @@
 		<includefile source="utility\utility_misc.xml" />
 		
 		<!-- character sheet subwindow -->
-		<includefile source="campaign\record_char_main.xml" />
-		<!-- Scripts -->
+		<includefile source="campaign\template_char.xml" />
 		
 		<script name="Startup" file="script\startup.lua" />
 	</base>
